@@ -52,7 +52,7 @@ nps_fx_impact_analysis/
 ### 1) 환경 설정
 ``` bash
 # 저장소 클론
-git clone [https://github.com/YOUR_USERNAME/nps-fx-impact-analysis.git](https://github.com/YOUR_USERNAME/nps-fx-impact-analysis.git)
+git clone https://github.com/Dohyun-Finance/nps_fx_impact_analysis
 
 # 가상환경 생성 (권장) 및 필수 라이브러리 설치
 pip install -r requirements.txt
